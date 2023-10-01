@@ -1,0 +1,4 @@
+data
+venv
+*.ipynb
+!Brain_Tumor_Classification.ipynb
